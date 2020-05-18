@@ -21,7 +21,7 @@ namespace MyForm
                         t = c[j];
                         c[j] = c[i];
                         c[i] = t;
-                        //temp = 0;
+                        //temp = 1;
                     }
                 }
 
