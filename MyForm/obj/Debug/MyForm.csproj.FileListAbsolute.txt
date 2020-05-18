@@ -1,0 +1,94 @@
+D:\programming\c#\Form\MyForm\MyForm\bin\Debug\MyForm.exe.config
+D:\programming\c#\Form\MyForm\MyForm\bin\Debug\MyForm.exe
+D:\programming\c#\Form\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\programming\c#\Form\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\programming\c#\Form\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+D:\programming\c#\Form\MyForm\MyForm\obj\Debug\MyForm.exe
+D:\programming\c#\Form\MyForm\MyForm\obj\Debug\MyForm.pdb
+D:\programming\c#\Form\MyForm\MyForm\obj\Debug\MyForm.Form1.resources
+C:\c#\MyForm\MyForm\obj\Debug\MyForm.Form1.resources
+C:\c#\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\c#\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\c#\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\c#\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\c#\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\c#\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\c#\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\c#\MyForm\MyForm\obj\Debug\MyForm.Lottery.resources
+C:\c#\MyForm\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\obj\Debug\MyForm.Form1.resources
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\obj\Debug\MyForm.Lottery.resources
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\屹宏\OneDrive\c#\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\programming\c#\MyForm\MyForm\bin\Debug\MyForm.exe.config
+D:\programming\c#\MyForm\MyForm\bin\Debug\MyForm.exe
+D:\programming\c#\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.Form1.resources
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.Lottery.resources
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.exe
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.pdb
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.Lottoy2.resources
+D:\programming\c#\MyForm\MyForm\bin\Debug\hsb-DE\MyForm.resources.dll
+D:\programming\c#\MyForm\MyForm\obj\Debug\MyForm.Lottoy2.hsb-DE.resources
+D:\programming\c#\MyForm\MyForm\obj\Debug\hsb-DE\MyForm.resources.dll
+C:\新增資料夾 (2)\MyForm\bin\Debug\MyForm.exe.config
+C:\新增資料夾 (2)\MyForm\bin\Debug\MyForm.exe
+C:\新增資料夾 (2)\MyForm\bin\Debug\MyForm.pdb
+C:\新增資料夾 (2)\MyForm\bin\Debug\hsb-DE\MyForm.resources.dll
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.Form1.resources
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.Lottery.resources
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.Lottoy2.resources
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.Lottoy2.hsb-DE.resources
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\新增資料夾 (2)\MyForm\obj\Debug\hsb-DE\MyForm.resources.dll
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.exe
+C:\新增資料夾 (2)\MyForm\obj\Debug\MyForm.pdb
+D:\programming\c#\MyForm\bin\Debug\MyForm.exe.config
+D:\programming\c#\MyForm\bin\Debug\MyForm.exe
+D:\programming\c#\MyForm\bin\Debug\MyForm.pdb
+D:\programming\c#\MyForm\bin\Debug\hsb-DE\MyForm.resources.dll
+D:\programming\c#\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+D:\programming\c#\MyForm\obj\Debug\MyForm.Form1.resources
+D:\programming\c#\MyForm\obj\Debug\MyForm.Lottery.resources
+D:\programming\c#\MyForm\obj\Debug\MyForm.Lottoy2.resources
+D:\programming\c#\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\programming\c#\MyForm\obj\Debug\MyForm.Lottoy2.hsb-DE.resources
+D:\programming\c#\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+D:\programming\c#\MyForm\obj\Debug\hsb-DE\MyForm.resources.dll
+D:\programming\c#\MyForm\obj\Debug\MyForm.exe
+D:\programming\c#\MyForm\obj\Debug\MyForm.pdb
+D:\programming\c#\Lotto\MyForm\obj\Debug\MyForm.Lottoy2.resources
+D:\programming\c#\Lotto\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\programming\c#\Lotto\MyForm\obj\Debug\MyForm.Lottoy2.hsb-DE.resources
+D:\programming\c#\Lotto\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Lotto\MyForm\bin\Debug\MyForm.exe.config
+C:\Lotto\MyForm\bin\Debug\MyForm.exe
+C:\Lotto\MyForm\bin\Debug\MyForm.pdb
+C:\Lotto\MyForm\bin\Debug\hsb-DE\MyForm.resources.dll
+C:\Lotto\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
+C:\Lotto\MyForm\obj\Debug\MyForm.Form1.resources
+C:\Lotto\MyForm\obj\Debug\MyForm.Lottery.resources
+C:\Lotto\MyForm\obj\Debug\MyForm.Lottoy2.resources
+C:\Lotto\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Lotto\MyForm\obj\Debug\MyForm.Lottoy2.hsb-DE.resources
+C:\Lotto\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Lotto\MyForm\obj\Debug\hsb-DE\MyForm.resources.dll
+C:\Lotto\MyForm\obj\Debug\MyForm.exe
+C:\Lotto\MyForm\obj\Debug\MyForm.pdb
+D:\programming\c#\Lotto\MyForm\bin\Debug\樂透模擬器.exe.config
+D:\programming\c#\Lotto\MyForm\bin\Debug\樂透模擬器.exe
+D:\programming\c#\Lotto\MyForm\bin\Debug\hsb-DE\樂透模擬器.resources.dll
+D:\programming\c#\Lotto\MyForm\obj\Debug\hsb-DE\樂透模擬器.resources.dll
+D:\programming\c#\Lotto\MyForm\obj\Debug\樂透模擬器.exe
+D:\programming\c#\Lotto\MyForm\obj\Debug\MyForm.csprojAssemblyReference.cache
